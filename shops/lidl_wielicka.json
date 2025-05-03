@@ -1,0 +1,283 @@
+{
+"A0": [
+],
+"A1": [
+  "Słodycze",
+  "Czekolada",
+  "Ciastka"
+],
+"A2": [
+  "Borówki",
+  "Gruszka",
+  "Gruszki",
+  "Banany",
+  "Jabłka",
+  "Jabłko",
+  "Winogrona",
+  "Pomarańcza",
+  "Brzoskwinia",
+  "Papaja",
+  "Papaya",
+  "Brzoskwinie",
+  "Arbuz",
+  "Mango",
+  "Grejfrut",
+  "Cytryna (117)",
+  "Granat",
+  "Kiwi (101)",
+  "Avocado (1)",
+  "Avokado (1)",
+  "Awokado (1)",
+  "Mandarynki",
+  "Owoce",
+  "Pomarancze",
+  "Truskawki",
+  "Grejpfrut (320)"
+],
+"A3": [
+],
+"A4": [
+  "Suszone śliwki",
+  "Orzechy nerkowca",
+  "Sałata",
+  "Płatki migdałowe"
+],
+"A5": [
+  "Kawa",
+  "Ciasto francuskie",
+  "Herbata",
+  "Mix sałat",
+  "Pierogi",
+  "Mieszanka sałat",
+  "Rukola",
+  "Melisa"
+],
+"A6": [
+  "Łosoś wędzony",
+  "Bekon",
+  "Boczek",
+  "Szynka"
+],
+"A7": [
+  "Parmezan/grana padano",
+  "Ser biały",
+  "Ser blue",
+  "Ser feta",
+  "Ser mascarpone",
+  "Ser pleśniowy",
+  "Serek śniadaniowy",
+  "Camembert",
+  "Camambert",
+  "Serek kanapkowy",
+  "Mozarella kulki",
+  "Ser żółty"
+],
+"A8": [
+],
+"B0": [
+],
+"B1": [
+],
+"B2": [
+  "Seler marynowany",
+  "Groszek?",
+  "Kukurydza?",
+  "Ciecierzyca",
+  "Marynowany seler",
+  "Kapary",
+  "Kukurydza",
+  "Groszek",
+  "Tuńczyk",
+  "Oliwki",
+  "Papryka",
+  "Ogórek",
+  "Ogórki kiszone",
+  "Pomidory (639)",
+  "Pomidorki",
+  "Pomidorki koktajlowe",
+  "Rzodkiewki",
+  "Koperek",
+  "Natka pietruszki",
+  "Czosnek",
+  "Szczypiorek",
+  "Baby salads",
+  "Kalafior",
+  "Kapusta",
+  "Buraki",
+  "Por",
+  "Ziemniaki"
+],
+"B3": [
+  "Małe cebulki",
+  "Pietruszka korzeń",
+  "Seler",
+  "Imbir",
+  "Cebula",
+  "Fasola szparagowa",
+  "Bakłażan",
+  "Marchewki (734)",
+  "Marchewka (734)",
+  "Szparagi",
+  "Cukinia"
+],
+"B4": [
+  "Przyprawa",
+  "Sól",
+  "Ocet",
+  "Oregano"
+],
+"B5": [
+  "Pomidory w puszce",
+  "Majonez",
+  "Pomidory w słoiku"
+],
+"B6": [
+  "Makaron",
+  "Makaron ciemny"
+],
+"B7": [
+],
+"B8": [
+],
+"C0": [
+  "Kinderki"
+],
+"C1": [
+],
+"C2": [
+  "Mydło w płynie",
+  "Domestos",
+  "Kostki do wc",
+  "Zawieszki do wc",
+  "Kret",
+  "Płyn do dezynfekcji zielony",
+  "Płyn do podłóg",
+  "Płyn do szyb",
+  "Płyn do naczyń",
+  "Rękawice gumowe",
+  "Proszek do prania",
+  "Kapsułki do prania",
+  "Chusteczki do prania",
+  "Sanytol",
+  "Folia aluminiowa",
+  "Folia spożywcza",
+  "Płyn do mycia naczyń",
+  "Worki na śmieci",
+  "Gąbki do naczyń"
+],
+"C3": [
+  "Tampony",
+  "Podpaski",
+  "Prezerwatywy/gumki",
+  "Żel durex"
+],
+"C4": [
+  "Dezodorant",
+  "Balsam do ust",
+  "Płyn nivea demakijaż",
+  "Pomadka liposan",
+  "Balsam UV",
+  "Balsam do kąpieli",
+  "Maszynka do golenia",
+  "Pasta do zębów",
+  "Pianka do golenia",
+  "Nić dentystyczna",
+  "Płyn do płukania ust",
+  "Płatki kosmetyczne",
+  "Mydło kostka",
+  "Szampon olive oil",
+  "Odżywka do włosów",
+  "Wkładki higieniczne",
+  "Palmolive",
+  "Żel",
+  "Szampon"
+],
+"C5": [
+],
+"C6": [
+],
+"C7": [
+],
+"C8": [
+  "Jogurty"
+],
+"D0": [
+],
+"D1": [
+],
+"D2": [
+],
+"D3": [
+  "Chipsy"
+],
+"D4": [
+  "Piwo"
+],
+"D5": [
+  "Sok pomarańczowy"
+],
+"D6": [
+],
+"D7": [
+  "Ręczniki papierowe",
+  "Chusteczki"
+],
+"D8": [
+  "Kefir"
+],
+"E0": [
+],
+"E1": [
+  "Jajka",
+  "Proszek do pieczenia",
+  "Skrobia ziemniaczana",
+  "Bułka tarta"
+],
+"E2": [
+  "Nutella",
+  "Cini minis",
+  "Ciniminis",
+  "Dżem"
+],
+"E3": [
+  "Pieczywo",
+  "Chleb",
+  "Płatki owsiane"
+],
+"E4": [
+],
+"E5": [
+],
+"E6": [
+],
+"E7": [
+  "Mrożone owoce",
+  "Owoce mrożone",
+  "Groszek mrożony",
+  "Lody",
+  "Warzywa mrożone",
+  "Papier toaletowy"
+],
+"E8": [
+  "Masło"
+],
+"AX": [
+  "Mleko"
+],
+"AY": [
+],
+"BX": [
+],
+"BY": [
+],
+"CX": [
+],
+"CY": [
+],
+"DX": [
+],
+"DY": [
+],
+"AZ": [
+]
+}
